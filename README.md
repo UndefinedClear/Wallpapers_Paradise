@@ -7,6 +7,7 @@ https://wallpapers.com/
 https://wallscloud.net/en
 https://wallhaven.cc/
 https://alphacoders.com/space-wallpapers
+https://konachan.net/
 
 And the other one repo:
 https://github.com/JaKooLit/Wallpaper-Bank
