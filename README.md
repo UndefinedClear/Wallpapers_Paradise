@@ -8,6 +8,7 @@ https://wallscloud.net/en
 https://wallhaven.cc/
 https://alphacoders.com/space-wallpapers
 https://konachan.net/
+https://github.com/D3Ext/aesthetic-wallpapers?tab=readme-ov-file
 
 And the other one repo:
 https://github.com/JaKooLit/Wallpaper-Bank
